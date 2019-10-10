@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book to Read</string>
+    <string name="book_title">Book Title</string>
+    <string name="_5_to_10">5€ to 10€</string>
+    <string name="_10_to_20">10€ to 20€</string>
+    <string name="_20_to_30">20€ to 30€</string>
+    <string name="_30"><![CDATA[>30 €]]></string>
+    <string name="book_Author" />
+    <string name="book_author">Book Author</string>
+</resources>
